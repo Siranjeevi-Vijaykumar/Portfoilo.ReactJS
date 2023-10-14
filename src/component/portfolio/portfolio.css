@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+#portfliobody{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}   
+#TEXTBOLD{
+    font-weight: bolder;
+    color: azure;
+    letter-spacing: 1px;
+}
+#Textnav:hover{
+    font-weight: bolder;
+    color: black;
+    letter-spacing: 1px;
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 15px;
+    transition-duration: 0s;
+}
+#namePORT{
+    color: orange;
+}
+#Textnav{
+    color: azure;
+    letter-spacing: 1px;
+    transition-duration: 0s;
+}

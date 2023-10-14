@@ -1,0 +1,18 @@
+#inputuser:hover{
+    border: 2px solid violet;
+}
+#inputuser{
+    border: 2px solid black;
+}
+input{
+    border: none;
+    outline: none;
+
+}
+#bgimg{
+    background: linear-gradient(to top right,violet,blue);
+}
+a{
+    text-decoration: none;
+    color: rgb(105, 160, 142);
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&family=Pixelify+Sans&display=swap');
+#Emailport{
+    color: rgb(118, 230, 230);
+    font-family: 'Mulish', sans-serif;
+}
+#Aboutport{
+        background-color:  #f5f7fa;
+}
+#ABOTporth1{
+    color: #183b56;
+}
+#BTNPort{
+    border-color:  #ff9f00;
+    color: #ff9f00;
+}

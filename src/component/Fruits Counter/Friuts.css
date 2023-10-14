@@ -1,0 +1,10 @@
+#Fruitbody{
+    height: 100vh;
+    background-image: linear-gradient(to top right,orange,red);
+}
+#FRuits{
+    margin-top: 10%;
+}
+#Bufriut{
+    border: none;
+}

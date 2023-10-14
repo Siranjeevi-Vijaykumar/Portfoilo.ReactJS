@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&family=Pixelify+Sans&display=swap');
+#Portfoliohomebody{
+    background-image: linear-gradient(to top right,black,rgb(40, 38, 38),rgb(18, 13, 13));
+    height: 100vh;
+}
+#Welcome-context{
+    color: azure;
+    font-family: 'Quicksand', sans-serif;
+}
+#Welcome-context{   
+    color: azure;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+#welcomeclass{
+    color: azure;
+    font-family: 'Mulish', sans-serif;
+}
+#Portfoliohomebody1{
+    background-image: linear-gradient(to top right,black,rgb(40, 38, 38),rgb(18, 13, 13));
+   
+}
+#welcomeclass1{
+    color: azure;
+    font-family: 'Mulish', sans-serif;
+}
+#legend1{
+    border: 2px solid white;
+}
